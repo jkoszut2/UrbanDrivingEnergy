@@ -11,3 +11,6 @@ The open-source `ECOS_BB` solver which comes with CVXPY can be used to solve the
 
 ### Running
 After ensuring that the required packages and desired solver are installed, open the command line, navigate to the location of this repository, and run `python main.py`.
+
+### Example Output
+![test](https://raw.githubusercontent.com/jkoszut2/UrbanDrivingEnergy/main/Comparison.png)
